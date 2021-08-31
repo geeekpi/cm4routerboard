@@ -44,3 +44,12 @@ If you need multiple LAN network ports like common routers, it is recommended to
 * ![Mechanical Drawing:](https://raw.githubusercontent.com/geeekpi/cm4routerboard/main/cm4-router-board%20mechanical%20drawing.png) 
 * 52Pi CM4 Router Board WiKi: [ https://wiki.52pi.com/index.php/EP-0146 ]
 
+## How to use factory image.
+- Preparation
+- 1. Etcher: a tool for flashing image to TF card.
+- 2. Download factory image from github: `git clone https://github.com/geeekpi/cm4routerboard` 
+- 3. Unzip image file or just flash it via etcher tool.
+- 4. Insert TF card(MicroSD card) into the card slot on CM4 Router Board.
+- 5. Connect the USB-C power supply into CM4 Router Board.
+- 6. Open a browser in your Laptop or PC, navigate to `192.168.1.1` as default administration web URL, and input username: `admin`, password: `openwrt`.
+- 7. Configure the luci web app as you will and use the router as home router or IoT gateway.
