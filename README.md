@@ -41,6 +41,6 @@ If you need multiple LAN network ports like common routers, it is recommended to
 * Dimension: 146 x 80mm
 
 ## WiKi:
-* Mechanical Drawing: 
-* ![52Pi CM4 Router Board WiKi: ](https://wiki.52pi.com/index.php/EP-0146)
+* ![Mechanical Drawing:](https://raw.githubusercontent.com/geeekpi/cm4routerboard/main/cm4-router-board%20mechanical%20drawing.png) 
+* 52Pi CM4 Router Board WiKi: [ https://wiki.52pi.com/index.php/EP-0146 ]
 
