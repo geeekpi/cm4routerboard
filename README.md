@@ -33,8 +33,8 @@ If you need multiple LAN network ports like common routers, it is recommended to
 * 0.91 inch I2C OLED display
 * 5V DC fan interface(Support controlling via PWM signal)
 * Ethernet: high-performance Gigabit ethernet controller RTL8111E chip, JXD 2111x G2406s chip as isolation transformer.
-** Port0: Compute Module 4 Built-In
-** Port1: PCI Express 1000BASE-T NIC
+  Port0: Compute Module 4 Built-In
+  Port1: PCI Express 1000BASE-T NIC
 * GPIO: 40Pin GPIO compatible with Raspberry Pi
 * Power Supply: USB-C(Type-C) 5V/3A interface
 * Operating Temperature: 0℃~80℃
