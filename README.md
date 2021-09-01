@@ -51,5 +51,5 @@ If you need multiple LAN network ports like common routers, it is recommended to
 - 3. Unzip image file or just flash it via etcher tool.
 - 4. Insert TF card(MicroSD card) into the card slot on CM4 Router Board.
 - 5. Connect the USB-C power supply into CM4 Router Board.
-- 6. Open a browser in your Laptop or PC, navigate to `192.168.1.1` as default administration web URL, and input username: `admin`, password: `openwrt`.
+- 6. Open a browser in your Laptop or PC, navigate to `192.168.1.1` as default administration web URL, and input username: `root`, after login, please change password at first.
 - 7. Configure the luci web app as you will and use the router as home router or IoT gateway.
